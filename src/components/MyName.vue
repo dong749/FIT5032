@@ -2,7 +2,7 @@
   <div>
     Welcome: {{ name }}
     <br />
-    Xudong Ren's GitHub https://github.com/dong749/FIT5032.git
+    Xudong Ren's GitHub https://github.com/dong749
   </div>
 </template>
 
